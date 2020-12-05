@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactWebsiteV2.0/static/css/main.b921b958.chunk.css",
+    "main.js": "/reactWebsiteV2.0/static/js/main.d3e0e81e.chunk.js",
+    "main.js.map": "/reactWebsiteV2.0/static/js/main.d3e0e81e.chunk.js.map",
+    "runtime-main.js": "/reactWebsiteV2.0/static/js/runtime-main.f5a7c2ed.js",
+    "runtime-main.js.map": "/reactWebsiteV2.0/static/js/runtime-main.f5a7c2ed.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/reactWebsiteV2.0/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.59f79850.chunk.js": "/reactWebsiteV2.0/static/js/2.59f79850.chunk.js",
+    "static/js/2.59f79850.chunk.js.map": "/reactWebsiteV2.0/static/js/2.59f79850.chunk.js.map",
+    "index.html": "/reactWebsiteV2.0/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/reactWebsiteV2.0/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.b921b958.chunk.css.map": "/reactWebsiteV2.0/static/css/main.b921b958.chunk.css.map",
+    "static/js/2.59f79850.chunk.js.LICENSE.txt": "/reactWebsiteV2.0/static/js/2.59f79850.chunk.js.LICENSE.txt",
+    "static/media/About.ac930b70.svg": "/reactWebsiteV2.0/static/media/About.ac930b70.svg",
+    "static/media/Contact.css": "/reactWebsiteV2.0/static/media/Contact.2735e2fd.png",
+    "static/media/Grow.fab28874.svg": "/reactWebsiteV2.0/static/media/Grow.fab28874.svg",
+    "static/media/Logo.cb086b18.png": "/reactWebsiteV2.0/static/media/Logo.cb086b18.png",
+    "static/media/home_job_banner.4b240045.jpg": "/reactWebsiteV2.0/static/media/home_job_banner.4b240045.jpg",
+    "static/media/home_work.c2b1c00f.gif": "/reactWebsiteV2.0/static/media/home_work.c2b1c00f.gif",
+    "static/media/home_work_banner.5177306d.jpg": "/reactWebsiteV2.0/static/media/home_work_banner.5177306d.jpg",
+    "static/media/person1.41bf94d3.png": "/reactWebsiteV2.0/static/media/person1.41bf94d3.png",
+    "static/media/person2.1257bea7.png": "/reactWebsiteV2.0/static/media/person2.1257bea7.png",
+    "static/media/person4.60b92e78.jpg": "/reactWebsiteV2.0/static/media/person4.60b92e78.jpg",
+    "static/media/person5.03d30bec.png": "/reactWebsiteV2.0/static/media/person5.03d30bec.png",
+    "static/media/person6.f552acb8.png": "/reactWebsiteV2.0/static/media/person6.f552acb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5a7c2ed.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.59f79850.chunk.js",
+    "static/css/main.b921b958.chunk.css",
+    "static/js/main.d3e0e81e.chunk.js"
+  ]
+}
