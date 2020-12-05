@@ -1,0 +1,27 @@
+.ourMission {
+    width: 100%;
+    clip-path: polygon(48% 4%, 100% 0, 99% 49%, 100% 100%, 48% 97%, 0 100%, 1% 51%, 0 0);
+    color: white;
+    background-color: rgb(88, 45, 129);
+}
+.ourMissionHedding {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+.ourMissionDiscription {
+    font-size: 1.4rem;
+}
+
+@media(max-width : 768px){
+    .ourMissionHedding {
+        font-size: 2rem;
+        font-weight: bold;
+        text-align: center;
+    }
+   
+    .ourMissionDiscription {
+        font-size: 1rem;
+    }
+    
+}

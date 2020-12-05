@@ -1,0 +1,29 @@
+.card {
+    height: 500px;
+    transition: 0.3s;
+}
+.card:hover  {
+    transition: 0.3s;
+    background-color: rgb(126, 54, 194);
+    color: white;
+  }
+
+  .card:hover  .btn-contact {
+      background-color: #fff;
+  }
+.card_img {
+    width: 100%;
+}
+.card_img img {
+    border-radius: 50%;
+    width: 200px;
+}
+.stage {
+    color: rgb(126, 54, 194) ;
+}
+
+.card:hover .stage {
+    transition: 0.3s;
+    background-color: rgb(126, 54, 194);
+    color: white;
+  }

@@ -1,0 +1,13 @@
+.Deliver_heading {
+    color: rgb(126, 54, 194);
+    margin-top : 150px
+}
+
+@media(max-width : 768px){
+    .Deliver_heading {
+        margin-top : 50px;
+    }
+    .Deliver img {
+        margin-top: 50px;
+    }
+}

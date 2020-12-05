@@ -1,0 +1,39 @@
+
+.about_hedline {
+    border-bottom: 1px solid rgb(126, 54, 194);
+}
+.About h1 span {
+    color: rgb(126, 54, 194);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.about_discription h1{
+    text-align: center;
+    margin: 10px;
+}
+.about_discription p {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.about_discription a {
+    border: 1px solid rgb(126, 54, 194);
+    text-decoration: none;
+    padding: 8px 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+  transition: 0.2s;
+}
+.about_discription a:hover {
+    background-color:  rgb(126, 54, 194);
+    transition: 0.3s;
+    color: #fff;
+
+}
+@media(max-width:768px){
+    .about_discription p {
+        font-size: 1rem;
+    }
+    .about_discription a {
+        font-size: 1rem;
+    }
+}

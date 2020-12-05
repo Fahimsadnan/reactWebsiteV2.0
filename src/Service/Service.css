@@ -1,0 +1,17 @@
+.service_title {
+    color: rgb(126, 54, 194);
+    font-weight: bold;
+}
+.service_title span {
+    border-bottom: 2px solid rgb(126, 54, 194);
+}
+.Service .card {
+    height: 250px;
+}
+.Service_icon {
+    font-size: 100px !important;
+    color: rgb(126, 54, 194);
+}
+.Service .card:hover .Service_icon {
+    color: #ffff;
+}

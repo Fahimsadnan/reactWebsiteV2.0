@@ -1,0 +1,21 @@
+.Earn {
+    width: 100%;
+    background:  rgb(126, 54, 194) !important;
+    color: white;
+}
+.Earn  a {
+    text-decoration: none;
+    padding: 8px 20px;
+    font-size: 1.4rem;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 20px;
+    transition: 0.3s;
+    margin-top: 20px !important;
+    
+}
+.Earn  a:hover {
+    background-color: #fff;
+    color: rgb(126, 54, 194) ;
+    transition: 0.3s;
+}
